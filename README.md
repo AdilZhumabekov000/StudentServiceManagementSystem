@@ -55,10 +55,6 @@ Linked List
 Structs and Pointers
 Run
 
-Compile:
-
-gcc main.c -o student_service
-
 Purpose:
 
 This project demonstrates how multiple data structures can work together in a practical student service management system.
